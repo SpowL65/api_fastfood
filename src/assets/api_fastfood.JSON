@@ -1,0 +1,64 @@
+[
+
+{
+        "id": "1",
+        "name": "Big Mac",  
+        "price": "R$ 10,00",
+        "image": "https://imgur.com/HW9vVz4" 
+        },
+{
+        "id": "2",
+        "name": "Whopper",  
+        "price": "R$ R$ 7,00",
+        "image": "https://imgur.com/a/u8kM892"
+        },
+{
+        "id": "3",
+        "name": "Big Bob",
+        "price": "R$ R$ 15,00",
+        "image": "https://imgur.com/a/kvgLcZV"
+        },
+{
+        "id": "4",
+        "name": "Frango no Balde",
+        "price": "R$ R$ 35,00",
+        "image": "https://imgur.com/a/uNagytJ"
+        },   
+{
+        "id": "5",
+        "name": "Esfiha",
+        "price": "R$ R$ 0,50",
+        "image": "https://imgur.com/a/Pj6FdJE"
+        },
+{
+        "id": "6",
+        "name": "Prato Crianças",
+        "price": "R$ R$ 20,00",
+        "image": "https://imgur.com/a/Kdie1nB"
+        },
+{
+        "id": "7",
+        "name": "CBO",
+        "price": "R$ R$ 15,00",
+        "image": "https://imgur.com/a/GCVIusI"
+        },
+{
+        "id": "8",
+        "name": "Whopper Furioso",
+        "price": "R$ R$ 20,00",
+        "image": "https://imgur.com/a/uiyOqZy"
+        },
+{
+        "id": "9",
+        "name": "McNuggets",
+        "price": "R$ R$ 10,00",
+        "image": "https://imgur.com/a/1YvaPS9"
+        },
+{
+        "id": "10",
+        "name": "McChicken",
+        "price": "R$ R$ 5,00",
+        "image": "https://imgur.com/a/hHs9ARP"
+        }
+    
+]
